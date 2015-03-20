@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unicode-csv-converter", "unicode-csv-converter\unicode-csv-converter.csproj", "{9968AEAD-43DB-4C4E-9E3E-BE3E93F8B253}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excel-csv-converter", "unicode-csv-converter\excel-csv-converter.csproj", "{9968AEAD-43DB-4C4E-9E3E-BE3E93F8B253}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
